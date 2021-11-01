@@ -1,5 +1,13 @@
 ﻿ using System;
 
+/**
+* titre : Denombrements
+* description : Programme console visant à réaliser trois types d'opération : Permutation, Arrangement et combinaison
+* auteur : Entreprise Soft2000
+* date création : 01/01/2020
+* date dernière modification : 01/01/2021
+*/
+
 
 namespace Denombrements
 {
